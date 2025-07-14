@@ -1,0 +1,13 @@
+title: "STD Codes India"
+description: "Find the STD codes of cities across India."
+baseurl: "/std-codes-India"
+url: "https://letmebeunknown.github.io"
+theme: jekyll-theme-primer
+markdown: kramdown
+
+# For SEO
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - README.md # Don't need to include the readme in the output
